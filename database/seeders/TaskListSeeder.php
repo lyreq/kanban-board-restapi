@@ -31,7 +31,7 @@ class TaskListSeeder extends Seeder
 
         $tasklist = new TaskList();
         $tasklist->board_id = 1;
-        $tasklist->task_title = "In progress";
+        $tasklist->task_title = "Designed";
         $tasklist->save();
     }
 }
