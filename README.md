@@ -10,7 +10,7 @@
 
 ## Kanban Board Nedir?
 
-Kanban Board kullanıcı notlarının bulunduğu bir mobil uygulamadır. Mobil uygulamaya verileri Rest API aracılığı ile JSON formatında veriler gönderilmektedir. Bu sayede hem mobil hem de web ile entegre bir şekilde uygulama çalışmaktadır.
+Kanban Board kullanıcı notlarının bulunduğu bir mobil uygulamadır. Mobil uygulamaya Rest API aracılığı ile JSON formatında veriler gönderilmektedir. Bu sayede hem mobil hem de web ile entegre bir şekilde uygulama çalışmaktadır.
 
 ## Rest API kullanırken kullandığım kütüphane
 
