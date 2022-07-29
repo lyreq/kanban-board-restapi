@@ -27,7 +27,7 @@ Laravel'in passport kütüphanesini kullandım. JSON formatında üye email ve p
 3) Yeni bir key oluşturalım
 
 		php artisan key:generate
-4) env dosyasında veri tabanı bağlantısını yapalım
+4) env dosyasında veri tabanı bağlantısını yapalım. Ardından veri tabanı adınıza göre bir veri tabanı oluşturun.
 
 		DB_DATABASE=VERTİTABANINIZ
 
