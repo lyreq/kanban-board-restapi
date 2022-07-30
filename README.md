@@ -12,7 +12,7 @@
 
 Kanban Board kullanıcı notlarının bulunduğu bir mobil uygulamadır. Mobil uygulamaya Rest API aracılığı ile JSON formatında veriler gönderilmektedir. Bu sayede hem mobil hem de web ile entegre bir şekilde uygulama çalışmaktadır.
 
-## Rest API kullanırken kullandığım kütüphane
+## Rest API Geliştirirken kullandığım kütüphane
 
 Laravel'in passport kütüphanesini kullandım. JSON formatında üye email ve password bilgisini alıp bir token oluşturdum. Ardından da bu token ile diğer servislere erişim verdirttim. Bu token olmadan diğer servislere erişim sağlanamaz.
 
